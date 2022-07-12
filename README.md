@@ -27,8 +27,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Medicine Ball Training
 Medicine ball related training programs, exercises and drills.
-- [simonebaseballperformance.org](https://simonebaseballperformance.org/2019/09/15/medicine-ball-training-exercises-programming-guidelines-and-more/)
-
+- [simonebaseballperformance.org](https://simonebaseballperformance.org/2019/09/15/medicine-ball-training-exercises-programming-guidelines-and-more/) - Utilizing medicine ball throws to train more “baseball specific” power by allowing you to work in frontal and traversal planes.
 
 # Books
 
