@@ -32,3 +32,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 # Social
 
 ## Coach Dan Blewett
+Coach, YouTuber, Author
+- [www.cleanyourcleats.com](https://www.cleanyourcleats.com)
+- [www.youtube.com](https://www.youtube.com/c/danblewett)
+- [www.twitter.com/@coachdanblewett](https://twitter.com/coachdanblewett)
+
