@@ -19,7 +19,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Pitching Tips
 Quick tips and videos (hacks) related to pitching.
-- [Twitter.com/@tomhouse](https://twitter.com/tomhouse/status/1544850654736183297) - Adjustments based on pitch location
+- [Twitter.com/@DeanDoxakisNPA](https://twitter.com/DeanDoxakisNPA/status/1544893116494364672) - Adjustments based on pitch
+  - [Twitter.com/@tomhouse](https://twitter.com/tomhouse/status/1544850654736183297) - Adjustments based on pitch
+
 
 # Advice
 
