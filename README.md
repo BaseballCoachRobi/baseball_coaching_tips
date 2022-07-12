@@ -13,7 +13,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Books](#Books)
 - [Media](#Media)
 - [Social](#Social)
-  - [Coach Dan Blewett](##coach-dan-blewett)
+  - [Coach Dan Blewett](#coach-dan-blewett)
   
 # Tips
 
