@@ -25,6 +25,11 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 # Exercises
 
+## Medicine Ball Training
+Medicine ball related training programs, exercises and drills.
+- [simonebaseballperformance.org](https://simonebaseballperformance.org/2019/09/15/medicine-ball-training-exercises-programming-guidelines-and-more/)
+
+
 # Books
 
 # Media
