@@ -17,6 +17,10 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   
 # Tips
 
+## Pitching Tips
+Quick tips and videos (hacks) related to pitching.
+- [Twitter.com/@tomhouse](https://twitter.com/tomhouse/status/1544850654736183297) - Adjustments based on pitch location
+
 # Advice
 
 # Drills
