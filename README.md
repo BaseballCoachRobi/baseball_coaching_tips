@@ -42,7 +42,7 @@ Medicine ball related training programs, exercises and drills.
 # Social
 
 ## Coach Dan Blewett
-Coach, YouTuber, Author
+Coach, YouTuber, Author - primarily focused on baseball pitching but also has videos on throwing and softball
 - [www.cleanyourcleats.com](https://www.cleanyourcleats.com)
 - [www.youtube.com](https://www.youtube.com/c/danblewett)
 - [www.twitter.com/@coachdanblewett](https://twitter.com/coachdanblewett)
