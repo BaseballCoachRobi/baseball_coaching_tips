@@ -24,6 +24,9 @@ Quick tips and videos (hacks) related to pitching.
 - [Twitter.com/@SanzeriBaseball](https://twitter.com/SanzeriBaseball/status/1546845943294701568) - Tips for throwing a curveball
 
 # Advice
+Long form and general advice
+## Infielding
+- (Twitter.com/@michael_schlact)[https://twitter.com/michael_schlact/status/1529224124232372224?s=20&t=j6cd3URpg54p0Ukn-2-S6w] - Covering 1B
 
 # Drills
 ## Pitching
@@ -55,6 +58,9 @@ Exercises and routines that require very little equipment
 
 ## Agility Training
 - [Twitter.com/leetaft](https://twitter.com/leetaft/status/1534151204770553858?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - 180-series for athletic awareness
+
+## Flexibility Training
+- [Twitter.com/@mobilitychick](https://twitter.com/mobilitychick/status/1529162509114040320?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - Hip Internal Rotation
 
 # Books
 
