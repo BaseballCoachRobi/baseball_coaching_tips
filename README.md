@@ -26,14 +26,15 @@ Quick tips and videos (hacks) related to pitching.
 # Advice
 Long form and general advice
 ## Infielding
-- (Twitter.com/@michael_schlact)[https://twitter.com/michael_schlact/status/1529224124232372224?s=20&t=j6cd3URpg54p0Ukn-2-S6w] - Covering 1B
+- [Twitter.com/@michael_schlact](https://twitter.com/michael_schlact/status/1529224124232372224?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - Covering 1B
 
 # Drills
 ## Pitching
 Quick drills related to pitching.
 - [Twitter.com/@BAcoachinsider](https://twitter.com/BAcoachinsider/status/1546796514961264640?s=20&t=fm8fJlVPayCwAjHlPNndEw) - Knee Pinch Drill
-- [https://twitter.com/@tomhouse](https://twitter.com/tomhouse/status/1544692127489093632?s=20&t=fm8fJlVPayCwAjHlPNndEw) - Hershiser Drill
+- [Twitter.com/@tomhouse](https://twitter.com/tomhouse/status/1544692127489093632?s=20&t=fm8fJlVPayCwAjHlPNndEw) - Hershiser Drill
 - [Twitter.com/@DominicSmeal](https://twitter.com/DominicSmeal/status/1537839614421000192?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - Backside hop pull down
+- [Twitter.com/@PFAbaseball](https://twitter.com/PFAbaseball/status/1523805991334072321?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - Back knee loading
 
 ## Throwing
 Quick drills related to throwing.
