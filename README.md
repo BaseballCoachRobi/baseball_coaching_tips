@@ -31,6 +31,9 @@ Quick drills related to pitching.
 - [https://twitter.com/@tomhouse](https://twitter.com/tomhouse/status/1544692127489093632?s=20&t=fm8fJlVPayCwAjHlPNndEw) - Hershiser Drill
 
 # Analysis
+Isolated frameworks for baseball specific movements
+## Hitting Analysis
+- [Twitter.com/@SwingEveryday](https://twitter.com/SwingEveryday/status/1541212701044576257?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - Bat barrel parallel to shoulders
 
 # Exercises
 Baseball specific single exercises and routines 
@@ -38,6 +41,7 @@ Baseball specific single exercises and routines
 ## Body Weight Training
 Exercises and routines that require very little equipment
 - [Twitter.com/@lahti_johan](https://twitter.com/lahti_johan/status/1546028501228470277?s=20&t=fm8fJlVPayCwAjHlPNndEw) - Agility and athletism
+- [Twitter.com/JASdynamics](https://twitter.com/JASdynamics/status/1539315071406546944?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - Standing triple jumps
 
 ## Medicine Ball Training
 - [simonebaseballperformance.org](https://simonebaseballperformance.org/2019/09/15/medicine-ball-training-exercises-programming-guidelines-and-more/) - Utilizing medicine ball throws to train more “baseball specific” power by allowing you to work in frontal and traversal planes.
@@ -52,6 +56,11 @@ Exercises and routines that require very little equipment
 ## Coach Dan Blewett
 Coach, YouTuber, Author - primarily focused on baseball pitching but also has videos on throwing and softball
 - [www.cleanyourcleats.com](https://www.cleanyourcleats.com)
-- [www.youtube.com](https://www.youtube.com/c/danblewett)
+- [www.youtube.com/c/danblewett](https://www.youtube.com/c/danblewett)
 - [www.twitter.com/@coachdanblewett](https://twitter.com/coachdanblewett)
 
+## Antonelli Baseball
+Baseball program run by Matt Antonelli
+- [antonellibaseball.com](https://www.antonellibaseball.com/)
+- [www.youtube.com/user/TouchEmAllBaseball](https://www.youtube.com/user/TouchEmAllBaseball)
+- [www.twitter.com/@AntonelliBSB](https://twitter.com/AntonelliBSB)
