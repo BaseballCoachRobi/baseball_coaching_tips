@@ -26,9 +26,15 @@ Quick tips and videos (hacks) related to pitching.
 # Advice
 
 # Drills
+## Pitching
 Quick drills related to pitching.
 - [Twitter.com/@BAcoachinsider](https://twitter.com/BAcoachinsider/status/1546796514961264640?s=20&t=fm8fJlVPayCwAjHlPNndEw) - Knee Pinch Drill
 - [https://twitter.com/@tomhouse](https://twitter.com/tomhouse/status/1544692127489093632?s=20&t=fm8fJlVPayCwAjHlPNndEw) - Hershiser Drill
+- [Twitter.com/@DominicSmeal](https://twitter.com/DominicSmeal/status/1537839614421000192?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - Backside hop pull down
+
+## Throwing
+Quick drills related to throwing.
+
 
 # Analysis
 Isolated frameworks for baseball specific movements
@@ -47,6 +53,9 @@ Exercises and routines that require very little equipment
 - [simonebaseballperformance.org](https://simonebaseballperformance.org/2019/09/15/medicine-ball-training-exercises-programming-guidelines-and-more/) - Utilizing medicine ball throws to train more “baseball specific” power by allowing you to work in frontal and traversal planes.
 - [https://twitter.com/@SwingEveryday](https://twitter.com/SwingEveryday/status/1542894613127581696?s=20&t=fm8fJlVPayCwAjHlPNndEw) - Explosive and rotational medicine ball drills
 
+## Agility Training
+- [Twitter.com/leetaft](https://twitter.com/leetaft/status/1534151204770553858?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - 180-series for athletic awareness
+
 # Books
 
 # Media
@@ -64,3 +73,11 @@ Baseball program run by Matt Antonelli
 - [antonellibaseball.com](https://www.antonellibaseball.com/)
 - [www.youtube.com/user/TouchEmAllBaseball](https://www.youtube.com/user/TouchEmAllBaseball)
 - [www.twitter.com/@AntonelliBSB](https://twitter.com/AntonelliBSB)
+
+## Walter Beede
+Former NCAA Head Baseball Coach, Public Speaker
+- [www.twitter.com/@baseballlifer11](https://twitter.com/baseballifer11)
+
+## Chris Romano
+Strength and condition coach with Detroit Tigers
+- [www.twitter.com/@coachcris_](https://twitter.com/coachcris_)
