@@ -48,6 +48,14 @@ Isolated frameworks for baseball specific movements
 # Exercises
 Baseball specific single exercises and routines 
 
+## Pitching Training
+Sets of drills for pitchers
+- [Twitter.com/@TreadHQ](https://twitter.com/TreadHQ/status/1523056909951152129?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - Set of drills to keep weight back
+
+## Hitting Training
+Sets of drills for hitters
+- [Youtube.com/c/NorthernBaseballTraining](https://youtu.be/4FxVlX7Lyd0) - Beginner set of drills for hitters
+
 ## Body Weight Training
 Exercises and routines that require very little equipment
 - [Twitter.com/@lahti_johan](https://twitter.com/lahti_johan/status/1546028501228470277?s=20&t=fm8fJlVPayCwAjHlPNndEw) - Agility and athletism
@@ -80,6 +88,11 @@ Baseball program run by Matt Antonelli
 - [antonellibaseball.com](https://www.antonellibaseball.com/)
 - [www.youtube.com/user/TouchEmAllBaseball](https://www.youtube.com/user/TouchEmAllBaseball)
 - [www.twitter.com/@AntonelliBSB](https://twitter.com/AntonelliBSB)
+
+## Tread Athletics
+Remote baseball coaching specializing in pitchers
+- [www.treadathletics.com/](https://treadathletics.com/)
+- [https://twitter.com/TreadHQ](https://twitter.com/TreadHQ)
 
 ## Walter Beede
 Former NCAA Head Baseball Coach, Public Speaker
