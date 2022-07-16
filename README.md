@@ -51,7 +51,7 @@ Baseball specific single exercises and routines
 ## Pitching Training
 Sets of drills for pitchers
 - [Twitter.com/@TreadHQ](https://twitter.com/TreadHQ/status/1523056909951152129?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - Set of drills to keep weight back
-- [Youtube.com/c/danblewett](https://www.youtube.com/watch?v=zJgLoNsDLAM)
+- [Youtube.com/c/danblewett](https://www.youtube.com/watch?v=zJgLoNsDLAM) - Indian Club Pitching Drills
 
 ## Hitting Training
 Sets of drills for hitters
