@@ -23,6 +23,7 @@ Quick tips and videos (hacks) related to pitching.
   - [Twitter.com/@tomhouse](https://twitter.com/tomhouse/status/1544850654736183297) - Adjustments based on pitch
 - [Twitter.com/@SanzeriBaseball](https://twitter.com/SanzeriBaseball/status/1546845943294701568) - Tips for throwing a curveball
 - [Twitter.com/@EricFenske9](https://twitter.com/EricFenske9/status/1549094439464755202?s=20&t=aHv8wJXmSnnmzaOmitS2Dg) - Tips on feet alignment
+- [Twitter.com/@SanzeriBaseball](https://twitter.com/SanzeriBaseball/status/1549131905815101440?s=20&t=euKc2wZ6KVbLlMXqKHaj6g) - Simplified delivery
 
 # Advice
 Long form and general advice
@@ -37,9 +38,11 @@ Quick drills related to pitching.
 - [Twitter.com/@DominicSmeal](https://twitter.com/DominicSmeal/status/1537839614421000192?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - Backside hop pull down
 - [Twitter.com/@PFAbaseball](https://twitter.com/PFAbaseball/status/1523805991334072321?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - Back knee loading
 
+## Fielding
+- [Twitter.com/@gpickit25](https://twitter.com/gpickit25/status/1549277605047570432?s=20&t=euKc2wZ6KVbLlMXqKHaj6g) - Creating rhythm for grounders
+
 ## Throwing
 Quick drills related to throwing.
-
 
 # Analysis
 Isolated frameworks for baseball specific movements
@@ -72,6 +75,7 @@ Exercises and routines that require very little equipment
 
 ## Flexibility Training
 - [Twitter.com/@mobilitychick](https://twitter.com/mobilitychick/status/1529162509114040320?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - Hip Internal Rotation
+- [Twitter.com/Conor_Harris_](https://twitter.com/Conor_Harris_/status/1549078432616632320?s=20&t=euKc2wZ6KVbLlMXqKHaj6g) - Assessing and improving hip mobility
 
 # Books
 
