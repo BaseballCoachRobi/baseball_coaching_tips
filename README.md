@@ -6,6 +6,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 # Table of Contents
 
 - [Tips](#Tips)
+  - [Pitching Tips](https://github.com/baseballgains/awesome_baseball_coaching/blob/main/README.md#pitching)
 - [Advice](#Advice)
 - [Drills](#Drills)
 - [Analysis](#Analysis)
