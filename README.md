@@ -69,6 +69,7 @@ Exercises and routines that require very little equipment
 ## Medicine Ball Training
 - [simonebaseballperformance.org](https://simonebaseballperformance.org/2019/09/15/medicine-ball-training-exercises-programming-guidelines-and-more/) - Utilizing medicine ball throws to train more “baseball specific” power by allowing you to work in frontal and traversal planes.
 - [https://twitter.com/@SwingEveryday](https://twitter.com/SwingEveryday/status/1542894613127581696?s=20&t=fm8fJlVPayCwAjHlPNndEw) - Explosive and rotational medicine ball drills
+- [Twiter.com/@Challenger_ST](https://twitter.com/Challenger_ST/status/1549536949765128193?s=20&t=XKraQvpjw8-J87MG8aYD7g) - 19 medicine ball variations for baseball
 
 ## Agility Training
 - [Twitter.com/leetaft](https://twitter.com/leetaft/status/1534151204770553858?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - 180-series for athletic awareness
