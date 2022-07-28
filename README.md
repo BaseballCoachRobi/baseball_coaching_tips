@@ -36,6 +36,9 @@ Quick tips and videos (hacks) related to pitching.
 - [Twitter.com/@JASDynamics](https://twitter.com/JASdynamics/status/1550528647144116226?s=20&t=AazfJnK_dp_LjVML7dY9mA) - 3 main ways to increase rotational power
 - [Twitter.com/@nextlevelbb](https://twitter.com/nextlevelbb/status/1550281398304514048?s=20&t=AazfJnK_dp_LjVML7dY9mA) - 5 things for great hitters
 
+## Catcher Tips
+- [Twitter.com/@CeasePease](https://twitter.com/CeasePease/status/1550204734077796355?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Pitch presentation
+
 # Advice
 Long form and general advice
 ## Infielding
@@ -92,8 +95,9 @@ Exercises and routines that require very little equipment
 
 ## Medicine Ball Training
 - [simonebaseballperformance.org](https://simonebaseballperformance.org/2019/09/15/medicine-ball-training-exercises-programming-guidelines-and-more/) - Utilizing medicine ball throws to train more “baseball specific” power by allowing you to work in frontal and traversal planes.
-- [https://twitter.com/@SwingEveryday](https://twitter.com/SwingEveryday/status/1542894613127581696?s=20&t=fm8fJlVPayCwAjHlPNndEw) - Explosive and rotational medicine ball drills
-- [Twiter.com/@Challenger_ST](https://twitter.com/Challenger_ST/status/1549536949765128193?s=20&t=XKraQvpjw8-J87MG8aYD7g) - 19 medicine ball variations for baseball
+- [Twitter.com/@SwingEveryday](https://twitter.com/SwingEveryday/status/1542894613127581696?s=20&t=fm8fJlVPayCwAjHlPNndEw) - Explosive and rotational medicine ball drills
+- [Twitter.com/@Challenger_ST](https://twitter.com/Challenger_ST/status/1549536949765128193?s=20&t=XKraQvpjw8-J87MG8aYD7g) - 19 medicine ball variations for baseball
+- [Twitter.com/@Challenger_ST](https://twitter.com/Challenger_ST/status/1549857144408875009?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Heavy medicine ball for first step/acceleration
 
 ## Agility Training
 - [Twitter.com/@leetaft](https://twitter.com/leetaft/status/1534151204770553858?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - 180-series for athletic awareness
@@ -106,6 +110,7 @@ Exercises and routines that require very little equipment
 - [Twitter.com/@ThePrehabGuys](https://twitter.com/ThePrehabGuys/status/1551463037269430272?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Ankle mobility
 - [Twitter.com/@ThePrehabGuys](https://twitter.com/ThePrehabGuys/status/1551508083452612608?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Back and hip stretch
 - [Twitter.com/@ThePrehabGuys](https://twitter.com/ThePrehabGuys/status/1550375622421135361?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Dynamic 90/90 hip stretch
+- [Twitter.com/@ThePrehabGuys](https://twitter.com/ThePrehabGuys/status/1550178926856753153?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Hip flexor stretch
 
 # Books
 
