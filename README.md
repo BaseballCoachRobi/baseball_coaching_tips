@@ -30,6 +30,11 @@ Quick tips and videos (hacks) related to pitching.
 - [Twitter.com/@SanzeriBaseball](https://twitter.com/SanzeriBaseball/status/1546845943294701568) - Tips for throwing a curveball
 - [Twitter.com/@EricFenske9](https://twitter.com/EricFenske9/status/1549094439464755202?s=20&t=aHv8wJXmSnnmzaOmitS2Dg) - Tips on feet alignment
 - [Twitter.com/@SanzeriBaseball](https://twitter.com/SanzeriBaseball/status/1549131905815101440?s=20&t=euKc2wZ6KVbLlMXqKHaj6g) - Simplified delivery
+- [Twitter.com/@EricFenske9](https://twitter.com/EricFenske9/status/1550540916749791233?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Stiffen glove side
+
+## Hitting Tips
+- [Twitter.com/@JASDynamics](https://twitter.com/JASdynamics/status/1550528647144116226?s=20&t=AazfJnK_dp_LjVML7dY9mA) - 3 main ways to increase rotational power
+- [Twitter.com/@nextlevelbb](https://twitter.com/nextlevelbb/status/1550281398304514048?s=20&t=AazfJnK_dp_LjVML7dY9mA) - 5 things for great hitters
 
 # Advice
 Long form and general advice
@@ -38,6 +43,7 @@ Long form and general advice
 
 ## Pitching
 - [Teammstrd.com](https://teammstrd.com/the-squeeze/pitch-grips-and-pre-sets-developing-a-young-pitchers-arsenal/amp/) - Grips and pre-sets for young pitchers throwing a curveball
+- [Twitter.com/@NPA_Pitching](https://twitter.com/NPA_Pitching/status/1550531178788442112?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Importance of draglines
 
 # Drills
 ## Pitching
@@ -79,6 +85,10 @@ Exercises and routines that require very little equipment
 - [Twitter.com/@lahti_johan](https://twitter.com/lahti_johan/status/1546028501228470277?s=20&t=fm8fJlVPayCwAjHlPNndEw) - Agility and athletism
 - [Twitter.com/JASdynamics](https://twitter.com/JASdynamics/status/1539315071406546944?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - Standing triple jumps
 - [Twitter.com/Challenger_ST](https://twitter.com/Challenger_ST/status/1551695685820764162?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Weighted band split stance stabilization
+- [Twitter.com/@mythoughtfood](https://twitter.com/mythoughtfood/status/1551319144057929728?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Hip Extension Progression
+
+## Strength Training
+- [Twitter.com/@JoeAratari](https://twitter.com/JoeAratari/status/1550489681606938624?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Landmine lateral skater squats
 
 ## Medicine Ball Training
 - [simonebaseballperformance.org](https://simonebaseballperformance.org/2019/09/15/medicine-ball-training-exercises-programming-guidelines-and-more/) - Utilizing medicine ball throws to train more “baseball specific” power by allowing you to work in frontal and traversal planes.
@@ -93,7 +103,9 @@ Exercises and routines that require very little equipment
 - [Twitter.com/@mobilitychick](https://twitter.com/mobilitychick/status/1529162509114040320?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - Hip Internal Rotation
 - [Twitter.com/@Conor_Harris_](https://twitter.com/Conor_Harris_/status/1549078432616632320?s=20&t=euKc2wZ6KVbLlMXqKHaj6g) - Assessing and improving hip mobility
 - [Twitter.com/@ThePrehabGuys](https://twitter.com/ThePrehabGuys/status/1551628881802805248?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Dynamic hip mobility exercises
-
+- [Twitter.com/@ThePrehabGuys](https://twitter.com/ThePrehabGuys/status/1551463037269430272?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Ankle mobility
+- [Twitter.com/@ThePrehabGuys](https://twitter.com/ThePrehabGuys/status/1551508083452612608?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Back and hip stretch
+- [Twitter.com/@ThePrehabGuys](https://twitter.com/ThePrehabGuys/status/1550375622421135361?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Dynamic 90/90 hip stretch
 
 # Books
 
@@ -125,3 +137,7 @@ Former NCAA Head Baseball Coach, Public Speaker
 ## Chris Romano
 Strength and condition coach with Detroit Tigers
 - [www.twitter.com/@coachcris_](https://twitter.com/coachcris_)
+
+## The Prehab Guys
+Rehab and prehab team that promotes proactive approaches to taking care of bodies.
+- [The Prehab Guys](https://theprehabguys.com/)
