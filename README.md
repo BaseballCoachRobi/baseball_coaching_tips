@@ -37,7 +37,7 @@ Long form and general advice
 - [Twitter.com/@michael_schlact](https://twitter.com/michael_schlact/status/1529224124232372224?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - Covering 1B
 
 ## Pitching
-- [Teammstrd.com](https://teammstrd.com/the-squeeze/pitch-grips-and-pre-sets-developing-a-young-pitchers-arsenal/amp/)
+- [Teammstrd.com](https://teammstrd.com/the-squeeze/pitch-grips-and-pre-sets-developing-a-young-pitchers-arsenal/amp/) - Grips and pre-sets for young pitchers throwing a curveball
 
 # Drills
 ## Pitching
