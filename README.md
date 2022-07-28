@@ -9,6 +9,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   - [Pitching Tips](https://github.com/baseballgains/awesome_baseball_coaching/blob/main/README.md#pitching)
 - [Advice](#Advice)
   - [Infielding Advice](https://github.com/baseballgains/awesome_baseball_coaching/blob/main/README.md#infielding)
+  - [Pitching Advice](https://github.com/baseballgains/awesome_baseball_coaching/blob/main/README.md#pitching)
 - [Drills](#Drills)
   - [Pitching Drills](https://github.com/baseballgains/awesome_baseball_coaching/blob/main/README.md#pitching)
   - [Fielding Drills](https://github.com/baseballgains/awesome_baseball_coaching/blob/main/README.md#fielding)
@@ -34,6 +35,9 @@ Quick tips and videos (hacks) related to pitching.
 Long form and general advice
 ## Infielding
 - [Twitter.com/@michael_schlact](https://twitter.com/michael_schlact/status/1529224124232372224?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - Covering 1B
+
+## Pitching
+- [Teammstrd.com](https://teammstrd.com/the-squeeze/pitch-grips-and-pre-sets-developing-a-young-pitchers-arsenal/amp/)
 
 # Drills
 ## Pitching
