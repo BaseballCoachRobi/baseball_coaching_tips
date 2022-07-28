@@ -53,6 +53,10 @@ Quick drills related to pitching.
 ## Throwing
 Quick drills related to throwing.
 
+  ### Catching Throwing
+  
+  - [Twitter.com/@goodrocatching](https://twitter.com/goodrocatching/status/1551373863866572803?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Net assisted throws to 2B based on pitch location
+
 # Analysis
 Isolated frameworks for baseball specific movements
 ## Hitting Analysis
@@ -74,6 +78,7 @@ Sets of drills for hitters
 Exercises and routines that require very little equipment
 - [Twitter.com/@lahti_johan](https://twitter.com/lahti_johan/status/1546028501228470277?s=20&t=fm8fJlVPayCwAjHlPNndEw) - Agility and athletism
 - [Twitter.com/JASdynamics](https://twitter.com/JASdynamics/status/1539315071406546944?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - Standing triple jumps
+- [Twitter.com/Challenger_ST](https://twitter.com/Challenger_ST/status/1551695685820764162?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Weighted band split stance stabilization
 
 ## Medicine Ball Training
 - [simonebaseballperformance.org](https://simonebaseballperformance.org/2019/09/15/medicine-ball-training-exercises-programming-guidelines-and-more/) - Utilizing medicine ball throws to train more “baseball specific” power by allowing you to work in frontal and traversal planes.
@@ -81,11 +86,14 @@ Exercises and routines that require very little equipment
 - [Twiter.com/@Challenger_ST](https://twitter.com/Challenger_ST/status/1549536949765128193?s=20&t=XKraQvpjw8-J87MG8aYD7g) - 19 medicine ball variations for baseball
 
 ## Agility Training
-- [Twitter.com/leetaft](https://twitter.com/leetaft/status/1534151204770553858?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - 180-series for athletic awareness
+- [Twitter.com/@leetaft](https://twitter.com/leetaft/status/1534151204770553858?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - 180-series for athletic awareness
+- [Twitter.com/@JASdynamics](https://twitter.com/JASdynamics/status/1551618554314752000?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Half kneeling start sprints
 
 ## Flexibility Training
 - [Twitter.com/@mobilitychick](https://twitter.com/mobilitychick/status/1529162509114040320?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - Hip Internal Rotation
-- [Twitter.com/Conor_Harris_](https://twitter.com/Conor_Harris_/status/1549078432616632320?s=20&t=euKc2wZ6KVbLlMXqKHaj6g) - Assessing and improving hip mobility
+- [Twitter.com/@Conor_Harris_](https://twitter.com/Conor_Harris_/status/1549078432616632320?s=20&t=euKc2wZ6KVbLlMXqKHaj6g) - Assessing and improving hip mobility
+- [Twitter.com/@ThePrehabGuys](https://twitter.com/ThePrehabGuys/status/1551628881802805248?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Dynamic hip mobility exercises
+
 
 # Books
 
