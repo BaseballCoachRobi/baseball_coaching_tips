@@ -49,6 +49,9 @@ Long form and general advice
 - [Twitter.com/@NPA_Pitching](https://twitter.com/NPA_Pitching/status/1550531178788442112?s=20&t=AazfJnK_dp_LjVML7dY9mA) - Importance of draglines
 
 # Drills
+> "Outwork everyone when nobody is watching"
+> Unknown
+
 ## Pitching
 Quick drills related to pitching.
 - [Twitter.com/@BAcoachinsider](https://twitter.com/BAcoachinsider/status/1546796514961264640?s=20&t=fm8fJlVPayCwAjHlPNndEw) - Knee Pinch Drill
@@ -72,6 +75,9 @@ Isolated frameworks for baseball specific movements
 - [Twitter.com/@SwingEveryday](https://twitter.com/SwingEveryday/status/1541212701044576257?s=20&t=j6cd3URpg54p0Ukn-2-S6w) - Bat barrel parallel to shoulders
 
 # Exercises
+> "The true test of a man's character is what he does when no one is watching." 
+> John Wooden
+
 Baseball specific single exercises and routines 
 
 ## Pitching Training
